@@ -47,8 +47,8 @@ https://static.wikia.nocookie.net/disney/images/3/3c/Bigbadwolf.png
 
 ---
 
-**Aluno:** Eduardo Alves e Santos
-**RA:** 124114208
+**Aluno:** Rayssa Leal Nascimento
+**RA:** 12419301
 **Unidade Curricular:** UDWMJ
 **Instituição:** UniBH — Engenharia de Software
 **Período:** 6º Período
